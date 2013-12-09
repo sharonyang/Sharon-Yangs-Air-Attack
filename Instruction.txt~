@@ -1,0 +1,22 @@
+1. Main Game Instruction
+      Everything in this game happens in the air. The player, you, is the airplane on the left who moves forward (to the right). In order to have a safe flight, you will need to avoid any obstruction that comes up on the way, and for obstructions that you cannot avoid, you need to shoot them down.
+      You use the keyboard to manage your airplane. You use the 'Up' and 'Down' keys to move your airplane vertically on the left. You cannot go forward or backward--your horizontal position is locked in place. In order to shoot, you press on the space key. You need to be horizontally aligned to the obstruction in order to shoot it down.
+
+2. General Guidelines
+      If you need to pause, click anywhere on the screen. You can un-pause the game by clicking anywhere, too. If you forget about instruction or feel the need to go back to the main screen, click on the buttons on the bottom of the screen. By clicking them, they will bring you to the page you want while automatically pausing the game for you.
+
+3. Life Policy
+      You have three 'lives' in total. If you lose all three lives, the game is over, and you will need to start from Level 1. Every time you crush into an obstruction, you lose one life--if you cannot answer the 'bonus question' that comes up. Basically, when the airplane crushes into an obstruction, an academic question will come up, and you will need to answer it in 10 seconds. If you can answer the question correctly, you 'save' yourself from losing one life and have your bullets refilled back to 50 bullets. If you answer the question in correctly or cannot answer the question at all, you lose one life.
+      Given these instructions, you must have realized that one strategy is to keep 'dying' by crushing into the obstructions so you can always have your bullets refilled. However, be careful, because some of the questions are hard, and it is really easy to lose all three lives.
+
+4. Level Difference
+      Each level lasts for 1 minute. The harder the level you are in, the faster the pace of the game is. As you go from one level to another, you will realize that the rocks are moving at a faster speed, and/or there are more rocks coming toward you. You can select to go to a few of the basic levels (1-5), but you cannot go straight to some of the more difficult levels without actual playing.
+      If you lose all three lives in a higher level that cannot be selected without actual playing, there is no way for you to go back to that level again--unless you play the game and actually get to that level!
+      There are infinite number of levels. The fun never ends!
+
+5. Copyright Issue
+      This game is a completely original idea of the author, Sharon Yang. She did not look up any resource or asked anyone for help when she was brainstorming the idea/creating the program. However, due to potential copyright issues, she looked up and found several games online that were similar to her idea. One example of those game is Air Barrons. In addition, even though she found a few Java or Flash games online, she did not find or copy any Java game code online.
+
+6. Tricks
+      If you bother to read the instruction at all (which brings you here!), I'll tell you a little trick! Take advantage of the shape of the airplane--you can slide through some rocks without getting hit! In addition, you will notice that the sides of your airplane tends to not be hit at all.
+      Thank you so much for playing this game and reading this page so carefully. I will see you in the air!
